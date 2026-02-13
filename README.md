@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Turning my coffee into Web & AI projects**👯 I’m looking to collaborate on **Beginner-friendly Open Source & Hackathons**🤝 I’m looking for help with **Best practices and ignoring Imposter Syndrome**🌱 I’m currently learning **Everything! (Python, Web Dev, & Gen AI)**💬 Ask me about **My journey into Tech, Student life, or Anime**⚡ Fun fact **"I code, therefore I... fix bugs."** 
-
+🔭 I’m currently working on **Turning my coffee into Web & AI projects**<br>👯 I’m looking to collaborate on **Beginner-friendly Open Source & Hackathons**<br>🤝 I’m looking for help with **Best practices and ignoring Imposter Syndrome**<br>🌱 I’m currently learning **Everything! (Python, Web Dev, & Gen AI)**<br>💬 Ask me about **My journey into Tech, Student life, or Anime**<br>⚡ Fun fact **"I code, therefore I... fix bugs."**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dhirajinstagm_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhiraj-bhavikatti-237b96359/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhirajbhavikatti05@gmail.com) 
