@@ -1,10 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Turning my coffee into Web & AI projects**
-👯 I’m looking to collaborate on **Beginner-friendly Open Source & Hackathons**
-🤝 I’m looking for help with **Best practices and ignoring Imposter Syndrome**
-🌱 I’m currently learning **Everything! (Python, Web Dev, & Gen AI)**
-💬 Ask me about **My journey into Tech, Student life, or Anime**
-⚡ Fun fact **"I code, therefore I... fix bugs."** 
+🔭 I’m currently working on **Turning my coffee into Web & AI projects**👯 I’m looking to collaborate on **Beginner-friendly Open Source & Hackathons**🤝 I’m looking for help with **Best practices and ignoring Imposter Syndrome**🌱 I’m currently learning **Everything! (Python, Web Dev, & Gen AI)**💬 Ask me about **My journey into Tech, Student life, or Anime**⚡ Fun fact **"I code, therefore I... fix bugs."** 
 
 
 ## 🌐 Socials:
