@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on **Bridging the gap between Web 3.0 and Generative AI**<br>👯 I’m looking to collaborate on **Disruptive Open Source innovations**<br>🤝 I’m looking for help with **Optimizing bleeding-edge AI architectures**<br>🌱 I’m currently learning **Autonomous Agentic Systems & Multi-Agent Orchestration**<br>💬 Ask me about **Deploying LLMs, Full-Stack nuances, and Future Tech**<br>⚡ Fun fact **I don't just write code, I prompt it.**
+🔭 I’m currently working on **Turning my coffee into Web & AI projects**
+👯 I’m looking to collaborate on **Beginner-friendly Open Source & Hackathons**
+🤝 I’m looking for help with **Best practices and ignoring Imposter Syndrome**
+🌱 I’m currently learning **Everything! (Python, Web Dev, & Gen AI)**
+💬 Ask me about **My journey into Tech, Student life, or Anime**
+⚡ Fun fact **"I code, therefore I... fix bugs."** 
 
 
 ## 🌐 Socials:
