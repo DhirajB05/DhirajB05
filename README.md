@@ -1,122 +1,125 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=220&section=header&text=Dhiraj%20Bhavikatti&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Turning%20coffee%20into%20Web%20%26%20AI%20projects&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
-</div>
-
-<h1 align="center">Hey 👋 I'm Dhiraj Bhavikatti</h1>
+👋 नमस्ते, I'm Dhiraj Bhavikatti
 
 <p align="center">
-  I'm a 1st year B.E. Computer Science student at Sahyadri College of Engineering & Management, Mangaluru. I'm actively building my skills in Python, Web Development, and Generative AI while participating in hackathons and contributing to open source. I like shipping things, breaking them, and figuring out why — that's how I learn best.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Web+%26+AI+Developer;Turning+ideas+into+projects;Always+learning+new+things" alt="Typing SVG" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhirajB05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhirajB05&theme=tokyonight&hide_border=true" height="170" />
 </p>
+---
 
-<div align="center">
+🌟 About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=DhirajB05&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/DhirajB05?color=yellow&style=flat-square&label=STARS)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/DhirajB05?color=green&style=flat-square&label=FOLLOWERS)
+🎓 I'm currently pursuing B.E. in Information Science and Engineering (ISE) at Sahyadri College of Engineering and Management.
 
-</div>
+💻 I'm building my skills in Web Development, AI, and problem-solving.
+
+🚀 I enjoy learning by building projects and exploring new technologies.
+
+🤝 I like collaborating on beginner-friendly open-source work and hackathons.
+
+🧠 Interested in turning ideas into useful, clean, and practical applications.
+
+✨ Fun fact: I usually learn faster when I break things first and then fix them.
+
+
 
 ---
 
-### 🙋 About Me
-
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 🔭 &nbsp; Currently working on turning my coffee into Web & AI projects
-- 🤝 &nbsp; Looking to collaborate on beginner-friendly Open Source & Hackathons
-- 🙏 &nbsp; Looking for help with best practices and ignoring Imposter Syndrome
-- 🌱 &nbsp; Currently learning Python, Web Dev, and Gen AI
-- 💬 &nbsp; Ask me about my journey into tech, student life, or streetwear
-- ⚡ &nbsp; Fun fact: "I code, therefore I… fix bugs."
-- 🎓 &nbsp; USN: 4SF25IS034 | Sahyadri College, Mangaluru
-
-<br clear="right"/>
-
----
-
-### 🔗 Connect Me
+🌐 Socials
 
 <p align="left">
-  <a href="mailto:dhirajbhavikatti05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://linkedin.com/in/dhiraj-bhavikatti-237b96359/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://github.com/DhirajB05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:dhirajbhavikatti05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/DhirajB05" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/whoknows.dhiraj?igsh=aDNnN2Y3dWJoZTRp" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+---
+
+💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhirajB05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajB05&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p><p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DhirajB05&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+---
+
+🌀 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhirajB05&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p><p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhirajB05&theme=react-dark&hide_border=true" alt="GitHub Activity Graph 2" />
+</p>
+---
+
+👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DhirajB05&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
+---
+
+🐍 Snake Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DhirajB05/DhirajB05/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+---
+
+✨ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+---
+
+🎨 Profile Style Notes
+
+Theme vibe: Anime + Minimal
+
+Background style: Mix of Coding + Anime + AI
+
+Sections included: About Me, Socials, Tech Stack, GitHub Stats, Activity Graph, Quote, Snake Graph
+
+Sections removed: Best Repositories, Support Me
+
+
 
 ---
 
-### 📊 GitHub Status
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhirajB05&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajB05&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"/>
-
-</div>
-
----
-
-### 🛠️ Languages & Tools I've Placed My Hands On
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,tailwind,git,github,vscode,figma,fastapi,nodejs,linux&perline=7" />
-
-<br/><br/>
-
-**Exploring**
-
-<img src="https://skillicons.dev/icons?i=vercel,supabase,postgres,firebase&perline=7" />
-
-</div>
-
----
-
-### ⭐ Best Repositories
-
-<div align="center">
-
-  <a href="https://github.com/DhirajB05/RAG-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajB05&repo=RAG-Application&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/DhirajB05/Knowledge-Vault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajB05&repo=Knowledge-Vault&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff"/>
-  </a>
-
-</div>
-
----
-
-### 🏆 Hackathons
-
-| Event | Project | Role |
-|-------|---------|------|
-| NMIT Hacks 2026 | SENTINEL — AI Threat Detection | Team Lead |
-| Matrix Fusion 4.0 (YIT) | SENTINEL — AI Threat Detection | Team Lead |
-| Web Kōbō | SneakPeek — Sneaker Store Frontend | Solo |
-| Open Sprint Round 2 | UX Contributions | Contributor |
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhirajB05&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true" width="95%"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=footer" />
+</p>
