@@ -2,7 +2,8 @@
 
 <!-- Convert your banner.mp4 to banner.gif and upload to your repo root -->
 <p align="center">
-  <img src="./banner.gif" alt="Dhiraj Bhavikatti Banner" width="100%" />
+  <img width="800" height="450" alt="ezgif-3d78b77dfd4621f8" src="https://github.com/user-attachments/assets/39c6e7ca-6670-4c08-a0b8-247e6940fcd8" />
+
 </p>
 
 ---
@@ -11,10 +12,6 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
   &nbsp;Hey there! I'm <strong>Dhiraj Bhavikatti</strong>
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.E.+Information+Science+%40+Sahyadri;Web+Dev+%2B+AI+Explorer;Open+Source+Enthusiast;Hackathon+Builder;%24+echo+%22I+code%2C+therefore+I...+fix+bugs.%22" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -186,5 +183,5 @@
 ---
 
 <p align="center">
-  <em>$ echo "New to open source, but debugging one life at a time." &nbsp;|&nbsp; while(learning) { keep_contributing(); }</em>
+  <img width="1920" height="208" alt="IMG_20260612_110434" src="https://github.com/user-attachments/assets/1c60b778-575a-46e6-8215-64cbb4dfdf7b" />
 </p>
