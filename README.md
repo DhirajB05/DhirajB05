@@ -1,5 +1,6 @@
 <!-- Banner -->
-<!-- Replace the path below with your actual banner image/gif once uploaded to your repo -->
+
+<!-- Convert your banner.mp4 to banner.gif and upload to your repo root -->
 <p align="center">
   <img src="./banner.gif" alt="Dhiraj Bhavikatti Banner" width="100%" />
 </p>
@@ -50,6 +51,84 @@
 
 ---
 
+## 🛠️ Languages & Tools I Use:
+
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="45" height="45" />
+  </a>
+</p>
+
+---
+
 ## 💻 Tech Stack:
 
 <p align="left">
@@ -62,6 +141,11 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -85,14 +169,6 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhirajB05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🤠 Random Dev Quote:
 
 <p align="center">
@@ -104,16 +180,11 @@
 ## 📈 Contribution Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhirajB05&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhirajB05&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&area_color=00f7ff&hide_border=true&radius=8&custom_title=Dhiraj's%20Contribution%20Graph" alt="Contribution Graph" width="95%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DhirajB05&icon=0&color=0" alt="Profile Views" />
-</p>
-
-<p align="center">
   <em>$ echo "New to open source, but debugging one life at a time." &nbsp;|&nbsp; while(learning) { keep_contributing(); }</em>
 </p>
-
