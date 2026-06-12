@@ -1,9 +1,7 @@
 <!-- Banner -->
-
 <!-- Convert your banner.mp4 to banner.gif and upload to your repo root -->
 <p align="center">
-  <img width="800" height="450" alt="ezgif-3d78b77dfd4621f8" src="https://github.com/user-attachments/assets/39c6e7ca-6670-4c08-a0b8-247e6940fcd8" />
-
+  <img src="./banner.gif" alt="Dhiraj Bhavikatti Banner" width="100%" />
 </p>
 
 ---
@@ -12,6 +10,10 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
   &nbsp;Hey there! I'm <strong>Dhiraj Bhavikatti</strong>
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.E.+Information+Science+%40+Sahyadri;Web+Dev+%2B+AI+Explorer;Open+Source+Enthusiast;Hackathon+Builder;%24+echo+%22I+code%2C+therefore+I...+fix+bugs.%22" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -88,7 +90,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45" />
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="45" height="45" />
   </a>
   &nbsp;
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -107,10 +109,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
   </a>
   &nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45" />
-  </a>
-  &nbsp;
   <a href="https://www.notion.so/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" width="45" height="45" />
   </a>
@@ -120,7 +118,7 @@
   </a>
   &nbsp;
   <a href="https://vercel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="45" height="45" />
+    <img src="https://img.icons8.com/fluency/48/vercel.png" alt="Vercel" width="45" height="45" />
   </a>
 </p>
 
@@ -177,11 +175,11 @@
 ## 📈 Contribution Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhirajB05&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&area_color=00f7ff&hide_border=true&radius=8&custom_title=Dhiraj's%20Contribution%20Graph" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhirajB05&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Dhiraj's%20Contribution%20Graph&title_color=ffffff" alt="Contribution Graph" width="95%" />
 </p>
 
 ---
 
 <p align="center">
-  <img width="1920" height="208" alt="IMG_20260612_110434" src="https://github.com/user-attachments/assets/1c60b778-575a-46e6-8215-64cbb4dfdf7b" />
+  <em>$ echo "New to open source, but debugging one life at a time." &nbsp;|&nbsp; while(learning) { keep_contributing(); }</em>
 </p>
