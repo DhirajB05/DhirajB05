@@ -115,8 +115,8 @@
   </a>
   &nbsp;
   <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/vercel.png" alt="Vercel" width="45" height="45" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="45" height="45" style="background:white; border-radius:6px; padding:2px;" />
+</a>
 </p>
 
 ---
