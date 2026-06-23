@@ -20,7 +20,7 @@
 - 🤝 I'm looking to collaborate on **Beginner-friendly Open Source & Hackathons**
 - 🫂 I'm looking for help with **Best practices and ignoring Imposter Syndrome**
 - 📚 I'm currently learning **Everything!** (Python, Web Dev & Gen AI)
-- 💬 Ask me about **My journey into Tech, Student life, or Anime**
+- 💬 Ask me about **My journey into Tech, Student life, or Anything else**
 - ⚡ Fun fact: *"I code, therefore I.... fix bugs."*
 
 ---
@@ -68,18 +68,6 @@
   &nbsp;
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" />
-  </a>
-  &nbsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45" />
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="45" height="45" />
-  </a>
-  &nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45" />
   </a>
   &nbsp;
   <a href="https://git-scm.com/" target="_blank">
