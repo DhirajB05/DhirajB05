@@ -1,12 +1,3 @@
-<!-- Banner -->
-
-<!-- Convert your banner.mp4 to banner.gif and upload to your repo root -->
-<p align="center">
-<img width="1000" height="333" alt="ezgif com-resize" src="https://github.com/user-attachments/assets/3e7e8964-641f-4df3-ad7b-13f11b36c739" />
-
-</p>
-
----
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
