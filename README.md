@@ -100,7 +100,6 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DhirajB05/DhirajB05/pacman-output/pacman-contribution-graph-dark.svg">
   </picture>
 </p>
----
 
 <p align="center">
   <img width="1920" height="208" alt="Footer Banner" src="https://github.com/user-attachments/assets/a746b9e5-c6a0-477d-9988-949f9f2ca299" />
