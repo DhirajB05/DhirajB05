@@ -9,7 +9,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://x.com/DhirajB05" target="_blank">
-    <!-- Updated to a pure white X logo for dark mode visibility -->
     <img src="https://cdn.simpleicons.org/x/white" width="40" height="40" alt="x logo" style="margin: 0 6px;" />
   </a>
   <a href="https://www.instagram.com/whoknows.dhiraj?igsh=aDNnN2Y3dWJoZTRp" target="_blank">
@@ -26,10 +25,7 @@
 
 <br />
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" height="35" /> 
-  About me
-</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="32" height="32" /> About me</h2>
 
 <table align="center" style="border: none;">
   <tr style="border: none;">
@@ -47,17 +43,14 @@
       </ul>
     </td>
     <td width="35%" align="center" style="border: none;">
-      <img width="896" height="1200" alt="Profile" src="https://github.com/user-attachments/assets/a644225d-4133-42a1-a157-035e89c36869" />
+      <img alt="Profile" src="https://github.com/user-attachments/assets/a644225d-4133-42a1-a157-035e89c36869" width="100%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" /> 
-  Languages & Tools I Use:
-</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="32" height="32" /> Languages & Tools I Use:</h2>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -89,10 +82,7 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" height="30" /> 
-  Contribution Graph:
-</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="32" height="32" /> Contribution Graph:</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhirajB05/DhirajB05/pacman-output/pacman-contribution-graph-dark.svg">
@@ -101,6 +91,8 @@
   </picture>
 </p>
 
+---
+
 <p align="center">
-  <img width="1920" height="208" alt="Footer Banner" src="https://github.com/user-attachments/assets/a746b9e5-c6a0-477d-9988-949f9f2ca299" />
+  <img alt="Footer Banner" src="https://github.com/user-attachments/assets/a746b9e5-c6a0-477d-9988-949f9f2ca299" width="92%" />
 </p>
