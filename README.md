@@ -1,28 +1,29 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c120b1fd-c157-4c7a-b576-c0a623341235" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/c120b1fd-c157-4c7a-b576-c0a623341235" alt="Banner" width="92%" />
 </div>
 
 <br />
 
-<div align="center">
-  <a href="https://www.instagram.com/whoknows.dhiraj?igsh=aDNnN2Y3dWJoZTRp" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
+<div data-importer="socials" align="center">
   <a href="https://linkedin.com/in/dhiraj-bhavikatti-237b96359/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  &nbsp;
-  <a href="mailto:dhirajbhavikatti05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
   <a href="https://x.com/DhirajB05" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+    <!-- Updated to a pure white X logo for dark mode visibility -->
+    <img src="https://cdn.simpleicons.org/x/white" width="40" height="40" alt="x logo" style="margin: 0 6px;" />
+  </a>
+  <a href="https://www.instagram.com/whoknows.dhiraj?igsh=aDNnN2Y3dWJoZTRp" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <!-- Add your Discord invite/username link to the href below -->
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  <a href="mailto:dhirajbhavikatti05@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
 
-<br />
 <br />
 
 <h2 align="center">
@@ -53,9 +54,12 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" /> Languages & Tools I Use:
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" /> 
+  Languages & Tools I Use:
+</h2>
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -83,20 +87,19 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
-###
 ---
 
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" height="30" /> Contribution Graph:
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhirajB05/DhirajB05/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhirajB05/DhirajB05/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DhirajB05/DhirajB05/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" height="30" /> 
+  Contribution Graph:
+</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhirajB05/DhirajB05/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhirajB05/DhirajB05/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DhirajB05/DhirajB05/pacman-output/pacman-contribution-graph-dark.svg">
+  </picture>
+</p>
 ---
 
 <p align="center">
