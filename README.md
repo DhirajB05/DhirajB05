@@ -42,10 +42,11 @@
         <li>🤝 Open to Open Source collaborations</li>
       </ul>
     </td>
-    <td width="35%" align="center" style="border: none;">
-      <img alt="Profile" src="https://github.com/user-attachments/assets/a644225d-4133-42a1-a157-035e89c36869" width="100%" style="border-radius: 10px;" />
-    </td>
-  </tr>
+<td width="35%" align="center">
+  <img src="https://github.com/user-attachments/assets/c088300c-11da-4b50-9754-0df57b21605f" width="100%" style="border-radius: 10px; max-width: 100%; display: block;" alt="Github Banner">
+</td>
+
+</tr>
 </table>
 
 ---
